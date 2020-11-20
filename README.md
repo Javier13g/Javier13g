@@ -8,6 +8,10 @@
 Repositorios Favoritos
 ---
 
-<a href="https://github.com/eternnoir/pyTelegramBotAPI">
+<a href="https://github.com/Javier13g/VehiculosDetenidosBlazor">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Javier13g&repo=VehiculosDetenidosBlazor&theme=radical&title_color=ffe34c" />
+</a>
+
+<a href="https://github.com/Javier13g/MiembrosIglesia">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Javier13g&repo=MiembrosIglesiaBlazor&theme=radical&title_color=ffe34c" />
 </a>
