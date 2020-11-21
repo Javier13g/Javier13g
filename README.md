@@ -16,9 +16,9 @@
 <br/>
 
 <details>
-  <summary> <h3>Used operating systems:,</h3> </summary>
-
-[<img align="left" alt="codeSTACKr | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/archlinux.svg" />]
+  <summary><h3>Used operating systems:</h3></summary>
+  <h3>Arch Linux</h3>
+  [<img align="left" alt="codeSTACKr | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/archlinux.svg" />]
 
 </details>
 
