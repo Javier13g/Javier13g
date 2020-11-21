@@ -14,7 +14,9 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />]
-<img align="left" alt="HTML5" width="26px" src="" />
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://gph.is/st/MxJGrGm" />]
+
+
 
 <br />
 
