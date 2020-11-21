@@ -9,10 +9,13 @@
 
 ### Methods to invoke me:
 
-[<img align="left" alt="codeSTACKr | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />]
+[<img align="left" alt="codeSTACKr | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
 [<img align="left" alt="codeSTACKr | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 
+### used operating systems:
+
+[<img align="left" alt="codeSTACKr | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/archlinux.svg" />]
 
 
 
@@ -37,3 +40,5 @@ Repositorios Favoritos
 
 [telegram]: https://t.me/Orauis
 [whatsapp]: https://wa.me/qr/7FZK25UY3ZMJL1
+[twitter]: https://twitter.com/Javixo13?s=09
+
