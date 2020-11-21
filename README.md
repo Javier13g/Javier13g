@@ -14,8 +14,8 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]
 [<img align="left" alt="codeSTACKr | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-<a href="https://t.me/Orauis" target="_blank"><img src="![telegram](https://user-images.githubusercontent.com/61069624/99864908-8c04dc80-2b7c-11eb-81fd-851b1b67aaaf.gif)
-" width="22px"></a>
+![telegram](https://user-images.githubusercontent.com/61069624/99864908-8c04dc80-2b7c-11eb-81fd-851b1b67aaaf.gif)
+
 
 
 
