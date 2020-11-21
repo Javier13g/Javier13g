@@ -1,10 +1,16 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+### Console.WriteLine("Hey, I'm Abdiel and I develop software");👋
 
 <p align="left"> <a href="https://twitter.com/javixo13" target="blank"><img src="https://img.shields.io/twitter/follow/javixo13?logo=twitter&style=for-the-badge" alt="javixo13" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Methods to invoke me:</h3>
 <p align="left">
 <a href="https://twitter.com/javixo13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="javixo13" height="30" width="40" /></a>
+</p>
+<p align="left">
+<a href="https://t.me/Orauis" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="Orauis" height="30" width="40" /></a>
+</p>
+<p align="left">
+<a href="https://wa.link/zf1k4m" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="Javier" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
