@@ -5,8 +5,7 @@
 - ⚡ Fun fact: I like to read manga, manhua and manhwa / listen to music and ride a bike
 
 ### Favorite song 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/track/5bsnLiT00hG37qd8p2jdVl)
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/track/5bsnLiT00hG37qd8p2jdVl)
 
 # Stats
 <img alt="Seventty's github status" src="https://github-readme-stats.codestackr.vercel.app/api?username=Javier13g&show_icons=true&theme=radical&title_color=ffe34c" />
