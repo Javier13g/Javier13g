@@ -9,17 +9,18 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]
+<img align="left" alt="HTML5" width="26px" src="https://www.cleanpng.com/png-telegram-computer-icons-telegram-3338718/" />
 
 <br />
 
 # Stats
 <img alt="Seventty's github status" src="https://github-readme-stats.codestackr.vercel.app/api?username=Javier13g&show_icons=true&theme=radical&title_color=ffe34c" />
 <img alt="Seventty's github status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javier13g&layout=compact&theme=radical&title_color=D3D3D3" />
-<img alt="Seventty's github status" src="https://github-readme-stats.vercel.app/api/wakatime?username=Javier13g" />
+
 Repositorios Favoritos
 ---
 
