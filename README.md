@@ -4,15 +4,12 @@
 - 🥅 Goals for 2020: Improve my skills
 - ⚡ Fun fact: I like to read manga, manhua and manhwa / listen to music and ride a bike
 
-<p align="left"> <a href="https://twitter.com/javixo13" target="blank"><img src="https://img.shields.io/twitter/follow/javixo13?logo=twitter&style=for-the-badge" alt="javixo13" /></a> </p>
-<p align="left"> <a href="https://t.me/Orauis" target="blank"><img src="https://img.shields.io/badge/Telegram-Contact%20me-brightgreen?logo=telegram&style=for-the-badge" alt="javixo13" /></a> </p>
-
-
 ### Methods to invoke me()
 ### {
 
 <a href="https://twitter.com/javixo13" target="blank"><img src="https://img.shields.io/twitter/follow/javixo13?logo=twitter&style=for-the-badge" alt="javixo13" /></a> 
 <a href="https://t.me/Orauis" target="blank"><img src="https://img.shields.io/badge/Telegram-Contact%20me-brightgreen?logo=telegram&style=for-the-badge" alt="javixo13" /></a>
+<a href="https://wa.me/qr/7FZK25UY3ZMJL1" target="blank"><img src="https://img.shields.io/badge/Whatsapp-Contact%20me-brightgreen?logo=whatsapp&style=for-the-badge" alt="javixo13" /></a>
 </br>
 ### }
 </br>
