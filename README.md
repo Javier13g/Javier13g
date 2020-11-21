@@ -14,12 +14,14 @@
 [<img align="left" alt="codeSTACKr | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 
 <br/>
+![Arch](https://user-images.githubusercontent.com/61069624/99866038-6d0a4880-2b84-11eb-81f6-b4d0f031a00e.png)
+![telegram](https://user-images.githubusercontent.com/61069624/99864908-8c04dc80-2b7c-11eb-81fd-851b1b67aaaf.gif)
 
 <details>
   <summary><h3>Used operating systems:</h3></summary>
   <h3>Arch Linux</h3>
   [<img align="left" alt="codeSTACKr | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/archlinux.svg" />]
-
+  ![Arch](https://user-images.githubusercontent.com/61069624/99866038-6d0a4880-2b84-11eb-81f6-b4d0f031a00e.png)
 </details>
 
 
