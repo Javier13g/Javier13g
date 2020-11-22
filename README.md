@@ -32,6 +32,9 @@
 <a href="https://github.com/Javier13g/VehiculosDetenidosBlazor">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Javier13g&repo=MiembrosIglesia&theme=radical&title_color=ffe34c" />
 </a>
+<a href="https://github.com/Javier13g/Gestor-Cafeteria">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Javier13g&repo=Gestor-Cafeteria&theme=radical&title_color=ffe34c" />
+</a>
 
 ### Used operating systems
 ![](images/Arch.png)
