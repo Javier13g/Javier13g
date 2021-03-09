@@ -19,10 +19,6 @@
   
 ### Stats and favorite repositories
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=javier13g&show_icons=true&locale=en&layout=compact" alt="javier13g" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=javier13g&show_icons=true&locale=en" alt="javier13g" /></p>
-
 <a href="https://github.com/Javier13g/VehiculosDetenidosBlazor">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Javier13g&repo=VehiculosDetenidosBlazor&theme=radical&title_color=ffe34c" />
 </a>
