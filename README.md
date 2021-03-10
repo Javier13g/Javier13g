@@ -19,7 +19,7 @@
   
 ### Stats and favorite repositories
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=javier13g&show_icons=true&locale=en&layout=compact" alt="javier13g" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=javier13g&show_icons=true&locale=en&layout=compact&theme=radical&title_color=ffe34c" alt="javier13g" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Javier13g&show_icons=true&theme=radical" /></p>
 
@@ -44,5 +44,4 @@
 [telegram]: https://t.me/Orauis
 [whatsapp]: https://wa.me/qr/7FZK25UY3ZMJL1
 [twitter]: https://twitter.com/Javixo13?s=09
-
 
