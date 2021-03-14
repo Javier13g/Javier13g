@@ -23,6 +23,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Javier13g&show_icons=true&theme=radical" /></p>
 
+<p>&nbsp;<img align="left" src="https://github.com/Javier13g/github-stats/blob/master/generated/languages.svg"></p>
+<p><img align="center" src="https://github.com/Javier13g/github-stats/blob/master/generated/overview.svg"></p>
+
 <a href="https://github.com/Javier13g/VehiculosDetenidosBlazor">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Javier13g&repo=VehiculosDetenidosBlazor&theme=radical&title_color=ffe34c" />
 </a>
