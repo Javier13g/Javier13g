@@ -33,8 +33,8 @@
 <a href="https://github.com/Javier13g/MiembrosIglesia">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Javier13g&repo=MiembrosIglesia&theme=radical&title_color=ffe34c" />
 </a>
-<a href="https://github.com/Javier13g/Gestor-Cafeteria">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Javier13g&repo=Gestor-Cafeteria&theme=radical&title_color=ffe34c" />
+<a href="https://github.com/Javier13g/RegistroActivos">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Javier13g&repo=RegistroActivos&theme=radical&title_color=ffe34c" />
 </a>
 <a href="https://github.com/Javier13g/TestBot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Javier13g&repo=TestBot&theme=radical&title_color=ffe34c" />
