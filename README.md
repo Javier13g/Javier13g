@@ -1,6 +1,6 @@
 ### Console.WriteLine("Hey, I'm Abdiel and I develop software");👋
 - 🌱 I'm currently learning everything 🤣
-- 🥅 Goals for 2024: Improve my skills
+- 🥅 Goals for 2023: Improve my skills
 - ⚡ Fun fact: I like to read manga, manhua and manhwa / listen to music and ride a bike
 
 ### Methods to invoke me()
