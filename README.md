@@ -26,12 +26,12 @@
 <p><img align="center" src="https://github.com/Javier13g/github-stats/blob/master/generated/overview.svg"></p>
 
 ### Favorite Repositories
-<a href="https://github.com/Javier13g/VehiculosDetenidosBlazor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Javier13g&repo=VehiculosDetenidosBlazor&theme=radical&title_color=ffe34c" />
+<a href="https://github.com/Javier13g/portafolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Javier13g&repo=portafolio&theme=radical&title_color=ffe34c" />
 </a>
 
-<a href="https://github.com/Javier13g/MiembrosIglesia">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Javier13g&repo=MiembrosIglesia&theme=radical&title_color=ffe34c" />
+<a href="https://github.com/Javier13g/BackendRealState">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Javier13g&repo=BackendRealState&theme=radical&title_color=ffe34c" />
 </a>
 <a href="https://github.com/Javier13g/RegistroActivos">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Javier13g&repo=RegistroActivos&theme=radical&title_color=ffe34c" />
